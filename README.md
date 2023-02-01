@@ -3,9 +3,12 @@ A hash function is a mathematical function that takes in input data and returns 
 
 #About this Project
 
-This project implements a hash function in python , which takes in input data and returns a hash value. The hash function is designed to have the following properties.
+This project implements a hash function in python , which takes in input data and returns a hash value. The hash function is designed to have the following properties:
+
 Deterministic: Given the same input, it will always return the same output.
+
 Fixed-Size Output: The output is a fixed-size string, regardless of the size of the input data.
+
 Uniqueness: It is computationally infeasible to generate two different inputs that produce the same hash value (also known as a "collision").
 
 #Usage
