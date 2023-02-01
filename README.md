@@ -1,4 +1,4 @@
-# Hash Function Project
+# Hash Function Encryption
 A hash function is a mathematical function that takes in input data and returns a fixed-size string of characters, which is typically a "digest" that is unique to the unique values of the input data.
 
 #About this Project
