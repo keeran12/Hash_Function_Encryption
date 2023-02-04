@@ -15,7 +15,7 @@ Uniqueness: It is computationally infeasible to generate two different inputs th
 
 To use the hash function, simply call the function hash() with the input data as an argument. The input data can be a string, a number, or any other data type. The output will be a string of characters with a fixed length.
 
- Clone Command $ git clone https://github.com/keeran12/Hash_Function_Encryption.git
+ Clone Command :$ git clone https://github.com/keeran12/Hash_Function_Encryption.git
  
- Run Command   $ python3 hash.py
+ Run Command   :$ python3 hash.py
   
